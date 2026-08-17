@@ -1,0 +1,12 @@
+{
+  "name": "paperback-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "paperback-cli build"
+  },
+  "devDependencies": {
+    "@paperback/cli": "latest",
+    "@paperback/types": "latest",
+    "typescript": "^5.0.0"
+  }
+}
